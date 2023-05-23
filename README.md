@@ -99,7 +99,6 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[We_will_use_decorate_classes]**
 - [ ] **[We_will_setup_associations]**
 - [ ] **[Basic_UI_will_be_added]**
 
