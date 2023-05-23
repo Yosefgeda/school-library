@@ -15,6 +15,7 @@ class Person
 
   def of_age?
     return true if @age >= 18
+
     false
   end
 end
