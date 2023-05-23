@@ -59,7 +59,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need: Vs code or any aother code editor
 
 ### Setup
 
@@ -93,6 +93,15 @@ To run the project, execute the following command:
 - LinkedIn: [@yosefgeda](https://www.linkedin.com/in/yosefgeda/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[We_will_use_decorate_classes]**
+- [ ] **[We_will_setup_associations]**
+- [ ] **[Basic_UI_will_be_added]**
 
 
 
