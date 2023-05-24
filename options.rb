@@ -19,9 +19,9 @@ class Options
     @app.list_all_books
   end
 
-  def list_all_peoples
+  def list_all_people
     puts 'Peoples:-'
-    @app.list_all_peoples
+    @app.list_all_people
   end
 
   def create_book

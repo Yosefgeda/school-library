@@ -4,7 +4,7 @@ require_relative 'options'
 def run_app(handle_options, _app)
   menu_options = {
     '1' => :list_all_books,
-    '2' => :list_all_peoples,
+    '2' => :list_all_people,
     '3' => :create_person,
     '4' => :create_book,
     '5' => :create_rental,
